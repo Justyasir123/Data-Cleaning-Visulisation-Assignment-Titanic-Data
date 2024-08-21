@@ -1,4 +1,5 @@
 **#Data Cleaning and Visualization on Titanic Dataset**
+
 This repository contains a Google Colab notebook that performs data cleaning and visualization on the Titanic dataset. The project aims to explore and visualize the key aspects of the Titanic dataset to gain insights into the factors that influenced the survival rates of passengers.
 # Project Overview
 The Titanic dataset is a classic example in the field of data science, used to predict the survival of passengers based on various factors like age, gender, ticket class, etc. This project focuses on cleaning the data and creating meaningful visualizations to extract insights.
